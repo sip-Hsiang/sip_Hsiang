@@ -1,0 +1,87 @@
+/* CSS Document */
+#zhongduan{
+	width:1460px;
+	height:80px;
+	position:relative;
+	background:#FFFFFF;
+	z-index:999;
+}
+.caidan{
+	width:375px;
+	height:100%;
+	display:inline-block;
+	background:#FFFFFF;
+	z-index:1000;
+	position:absolute;
+	left:55px;
+}
+.caidan-1{
+	height:100%;
+	display:inline-block;
+}
+.caidan-1 > a {
+	width:50px;
+    display:inline-block;
+    text-decoration:none;
+    text-align:center;
+	color:darkorange;
+}
+.sousuokuang{
+	float: left;
+	border: 3px solid #F60;
+	position: relative;
+	left: 1107px;
+	width: 200px;
+	top: 27px;
+	border-radius: 4px;
+}
+.sousuokuang .text{
+	width: 190px;
+	height:32px;
+	padding:0px 4px 0px 5px;
+	line-height:30px;
+	border: none;
+}
+.sousuokuang-biaoqian{
+	float: left;
+	padding-left: 26px;
+	background-image:url(../img/page_icons.png);
+	background-repeat: no-repeat;
+	background-position: -659px -659px;
+	margin-top: 5px;
+	cursor: pointer;
+	left: 1102px;
+	position: relative;
+	top: 30px;
+	color: coral;
+}
+.xiaotu{
+	background-image:url(../img/page_icons.png);
+    background-repeat: no-repeat;
+    background-position: -137px -69px;
+    width: 50px;
+    height: 50px;
+}
+.xiaotu-2{
+	background-image:url(../img/page_icons.png);
+    background-repeat: no-repeat;
+    background-position: -137px -136px;
+    width: 50px;
+    height: 50px;
+}
+.xiaotu-3{
+	background-image:url(../img/page_icons.png);
+    background-repeat: no-repeat;
+    background-position: -137px -264px;
+    width: 50px;
+    height: 50px;
+}
+.xiaotu-4{
+	background-image:url(../img/page_icons.png);
+    background-repeat: no-repeat;
+    background-position: -137px -391px;
+    width: 50px;
+    height: 50px;
+}
+
+	

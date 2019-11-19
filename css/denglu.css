@@ -1,0 +1,84 @@
+/* CSS Document */
+.top{
+	background:url(../img/thumb-1920-921805.jpg);
+	height:100px;
+}
+.denglu{
+	width:400px;
+	height:300px;
+	left:600px;
+	background:#FFFFFF;
+	position:absolute;
+	top:180px;
+}
+.denglu-box{
+	width:200px;
+	position:absolute;
+	left:100px;
+	background:#FFFFFF;
+	top:180px;
+}
+.denglu-biaoti{
+	width: 200px;
+	position: relative;
+	left: 100px;
+	background: #908881;
+	top: 50px;
+	height: 120px;
+	color: #FFFFFF;
+	line-height: 3;
+	text-align: center;
+	font-size: 40px;
+	border-radius: 5px;
+}
+.denglu-box-p1{
+	width: 100px;
+	position: absolute;
+	left: 206px;
+	top: -15px;
+}
+.denglu-box-p2{
+	width: 100px;
+	position: absolute;
+	left: 206px;
+	top: 14px;
+}
+.denglu-box-p1 p{
+	color:#FF0000;
+	display:none;
+	position: absolute;
+}
+.denglu-box-p2 p{
+	color:#FF0000;
+	display:none;
+	position: absolute;
+}
+.button{
+	height:33px; 
+	position:relative;
+	top:10px;
+	left:71px; 
+	color:black;
+	border-radius:5px;
+	width:60px;
+}
+.mimazhaohui{
+	height: 50px;
+	background:
+	rgba(255,255,255,.3);
+	position: relative;
+	top: 312px;
+	width: 120px;
+	left: 870px;
+}
+.mimazhaohui li {
+	font-size: 15px;
+	display: inline-block;
+	margin: 10px 10px 10px 10px;
+	position: relative;
+	color: darkcyan;
+}
+.mimazhaohui li a {
+	text-decoration:none;
+	color: darkcyan;
+}
